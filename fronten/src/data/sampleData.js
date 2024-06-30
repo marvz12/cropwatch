@@ -1,0 +1,52 @@
+export const dataSample = [{
+    id: '1',
+    Insect: 'Insect',
+    FruitFly: 241,
+    Date: "6/15/2023"
+  }, {
+    id: '2',
+    Insect: 'Insect',
+    FruitFly: 176,
+    Date: "6/15/2023"
+  }, {
+    id: '3',
+    Insect: 'Insect',
+    FruitFly: 162,
+    Date: "6/16/2023"
+  }, {
+    id: '4',
+    Insect: 'Insect',
+    FruitFly: 166,
+    Date: "6/16/2023"
+  }, {
+    id: '5',
+    Insect: 'Insect',
+    FruitFly: 267,
+    Date: "6/17/2023"
+  }, {
+    id: '6',
+    Insect: 'Insect',
+    FruitFly: 228,
+    Date: "6/17/2023"
+  }, {
+    id: '7',
+    Insect: 'Insect',
+    FruitFly: 208,
+    Date: "6/18/2023"
+  }, {
+    id: '8',
+    Insect: 'Insect',
+    FruitFly: 180,
+    Date: "6/18/2023"
+  }, {
+    id: '9',
+    Insect: 'Insect',
+    FruitFly: 280,
+    Date: "6/19/2023"
+  }, {
+    id:'10',
+    Insect: 'Insect',
+    FruitFly: 228,
+    Date: "6/19/2023"
+  }
+  ]
